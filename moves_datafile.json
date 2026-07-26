@@ -1,0 +1,452 @@
+[
+  {
+    "name": "Thunderbolt",
+    "type": "Electric",
+    "category": "Special",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "contact": false,
+    "effect": {
+      "description": "May paralyze the target",
+      "chance": 10,
+      "status": "paralysis"
+    }
+  },
+  {
+    "name": "Flamethrower",
+    "type": "Fire",
+    "category": "Special",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "contact": false,
+    "effect": {
+      "description": "May burn the target",
+      "chance": 10,
+      "status": "burn"
+    }
+  },
+  {
+    "name": "Ice Beam",
+    "type": "Ice",
+    "category": "Special",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "contact": false,
+    "effect": {
+      "description": "May freeze the target",
+      "chance": 10,
+      "status": "freeze"
+    }
+  },
+  {
+    "name": "Earthquake",
+    "type": "Ground",
+    "category": "Physical",
+    "power": 100,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "contact": false,
+    "effect": {
+      "description": "No additional effect",
+      "chance": 0,
+      "status": null
+    }
+  },
+  {
+    "name": "Close Combat",
+    "type": "Fighting",
+    "category": "Physical",
+    "power": 120,
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0,
+    "contact": true,
+    "effect": {
+      "description": "Lowers user's Defense and Sp. Defense",
+      "chance": 100,
+      "status": "self-debuff"
+    }
+  },
+  {
+    "name": "Psychic",
+    "type": "Psychic",
+    "category": "Special",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "contact": false,
+    "effect": {
+      "description": "May lower target's Sp. Defense",
+      "chance": 10,
+      "status": "sp_def_down"
+    }
+  },
+  {
+    "name": "Shadow Ball",
+    "type": "Ghost",
+    "category": "Special",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "contact": false,
+    "effect": {
+      "description": "May lower target's Sp. Defense",
+      "chance": 20,
+      "status": "sp_def_down"
+    }
+  },
+  {
+    "name": "Dragon Claw",
+    "type": "Dragon",
+    "category": "Physical",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "contact": true,
+    "effect": {
+      "description": "No additional effect",
+      "chance": 0,
+      "status": null
+    }
+  },
+  {
+    "name": "Sludge Bomb",
+    "type": "Poison",
+    "category": "Special",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "contact": false,
+    "effect": {
+      "description": "May poison the target",
+      "chance": 30,
+      "status": "poison"
+    }
+  },
+  {
+    "name": "Iron Head",
+    "type": "Steel",
+    "category": "Physical",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "contact": true,
+    "effect": {
+      "description": "May cause flinching",
+      "chance": 30,
+      "status": "flinch"
+    }
+  },
+  {
+    "name": "Moonblast",
+    "type": "Fairy",
+    "category": "Special",
+    "power": 95,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "contact": false,
+    "effect": {
+      "description": "May lower target's Sp. Attack",
+      "chance": 30,
+      "status": "sp_atk_down"
+    }
+  },
+  {
+    "name": "Leaf Blade",
+    "type": "Grass",
+    "category": "Physical",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "contact": true,
+    "effect": {
+      "description": "High critical-hit ratio",
+      "chance": 0,
+      "status": "high_crit"
+    }
+  },
+  {
+    "name": "Hydro Pump",
+    "type": "Water",
+    "category": "Special",
+    "power": 110,
+    "accuracy": 80,
+    "pp": 5,
+    "priority": 0,
+    "contact": false,
+    "effect": {
+      "description": "No additional effect",
+      "chance": 0,
+      "status": null
+    }
+  },
+  {
+    "name": "Brave Bird",
+    "type": "Flying",
+    "category": "Physical",
+    "power": 120,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "contact": true,
+    "effect": {
+      "description": "User receives recoil damage",
+      "chance": 100,
+      "status": "recoil"
+    }
+  },
+  {
+    "name": "Bug Buzz",
+    "type": "Bug",
+    "category": "Special",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "contact": false,
+    "effect": {
+      "description": "May lower Sp. Defense",
+      "chance": 10,
+      "status": "sp_def_down"
+    }
+  },
+  {
+    "name": "Rock Slide",
+    "type": "Rock",
+    "category": "Physical",
+    "power": 75,
+    "accuracy": 90,
+    "pp": 10,
+    "priority": 0,
+    "contact": false,
+    "effect": {
+      "description": "May cause flinching",
+      "chance": 30,
+      "status": "flinch"
+    }
+  },
+  {
+    "name": "Dark Pulse",
+    "type": "Dark",
+    "category": "Special",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "contact": false,
+    "effect": {
+      "description": "May cause flinching",
+      "chance": 20,
+      "status": "flinch"
+    }
+  },
+  {
+    "name": "Extreme Speed",
+    "type": "Normal",
+    "category": "Physical",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 2,
+    "contact": true,
+    "effect": {
+      "description": "Strikes first",
+      "chance": 100,
+      "status": "priority"
+    }
+  },
+  {
+    "name": "Quick Attack",
+    "type": "Normal",
+    "category": "Physical",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 30,
+    "priority": 1,
+    "contact": true,
+    "effect": {
+      "description": "Strikes first",
+      "chance": 100,
+      "status": "priority"
+    }
+  },
+  {
+    "name": "Thunder Wave",
+    "type": "Electric",
+    "category": "Status",
+    "power": 0,
+    "accuracy": 90,
+    "pp": 20,
+    "priority": 0,
+    "contact": false,
+    "effect": {
+      "description": "Paralyzes the target",
+      "chance": 100,
+      "status": "paralysis"
+    }
+  },
+  {
+    "name": "Will-O-Wisp",
+    "type": "Fire",
+    "category": "Status",
+    "power": 0,
+    "accuracy": 85,
+    "pp": 15,
+    "priority": 0,
+    "contact": false,
+    "effect": {
+      "description": "Burns the target",
+      "chance": 100,
+      "status": "burn"
+    }
+  },
+  {
+    "name": "Toxic",
+    "type": "Poison",
+    "category": "Status",
+    "power": 0,
+    "accuracy": 90,
+    "pp": 10,
+    "priority": 0,
+    "contact": false,
+    "effect": {
+      "description": "Badly poisons the target",
+      "chance": 100,
+      "status": "bad_poison"
+    }
+  },
+  {
+    "name": "Swords Dance",
+    "type": "Normal",
+    "category": "Status",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 20,
+    "priority": 0,
+    "contact": false,
+    "effect": {
+      "description": "Sharply raises user's Attack",
+      "chance": 100,
+      "status": "atk_up"
+    }
+  },
+  {
+    "name": "Calm Mind",
+    "type": "Psychic",
+    "category": "Status",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 20,
+    "priority": 0,
+    "contact": false,
+    "effect": {
+      "description": "Raises Sp. Attack and Sp. Defense",
+      "chance": 100,
+      "status": "sp_boost"
+    }
+  },
+  {
+    "name": "Recover",
+    "type": "Normal",
+    "category": "Status",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 0,
+    "contact": false,
+    "effect": {
+      "description": "Restores HP",
+      "chance": 100,
+      "status": "heal"
+    }
+  },
+  {
+    "name": "Protect",
+    "type": "Normal",
+    "category": "Status",
+    "power": 0,
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 4,
+    "contact": false,
+    "effect": {
+      "description": "Protects from attacks",
+      "chance": 100,
+      "status": "protect"
+    }
+  },
+  {
+    "name": "U-turn",
+    "type": "Bug",
+    "category": "Physical",
+    "power": 70,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "contact": true,
+    "effect": {
+      "description": "Switches user out after attack",
+      "chance": 100,
+      "status": "switch"
+    }
+  },
+  {
+    "name": "Volt Switch",
+    "type": "Electric",
+    "category": "Special",
+    "power": 70,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "contact": false,
+    "effect": {
+      "description": "Switches user out after attack",
+      "chance": 100,
+      "status": "switch"
+    }
+  },
+  {
+    "name": "Stone Edge",
+    "type": "Rock",
+    "category": "Physical",
+    "power": 100,
+    "accuracy": 80,
+    "pp": 5,
+    "priority": 0,
+    "contact": false,
+    "effect": {
+      "description": "High critical-hit ratio",
+      "chance": 0,
+      "status": "high_crit"
+    }
+  },
+  {
+    "name": "Aura Sphere",
+    "type": "Fighting",
+    "category": "Special",
+    "power": 80,
+    "accuracy": 0,
+    "pp": 20,
+    "priority": 0,
+    "contact": false,
+    "effect": {
+      "description": "Never misses",
+      "chance": 100,
+      "status": "sure_hit"
+    }
+  }
+]

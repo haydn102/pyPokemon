@@ -1,0 +1,202 @@
+[
+  {
+    "name": "Pikachu",
+    "health": 35,
+    "defence": 40,
+    "spc_attack": 50,
+    "spc_defence": 50,
+    "speed": 90,
+    "type": "Electric",
+    "moves": []
+  },
+  {
+    "name": "Bulbasaur",
+    "health": 45,
+    "defence": 49,
+    "spc_attack": 65,
+    "spc_defence": 65,
+    "speed": 45,
+    "type": "Grass/Poison",
+    "moves": []
+  },
+  {
+    "name": "Charmander",
+    "health": 39,
+    "defence": 43,
+    "spc_attack": 60,
+    "spc_defence": 50,
+    "speed": 65,
+    "type": "Fire",
+    "moves": []
+  },
+  {
+    "name": "Squirtle",
+    "health": 44,
+    "defence": 65,
+    "spc_attack": 50,
+    "spc_defence": 64,
+    "speed": 43,
+    "type": "Water",
+    "moves": []
+  },
+  {
+    "name": "Jigglypuff",
+    "health": 115,
+    "defence": 20,
+    "spc_attack": 45,
+    "spc_defence": 25,
+    "speed": 20,
+    "type": "Normal/Fairy",
+    "moves": []
+  },
+  {
+    "name": "Meowth",
+    "health": 40,
+    "defence": 35,
+    "spc_attack": 40,
+    "spc_defence": 40,
+    "speed": 90,
+    "type": "Normal",
+    "moves": []
+  },
+  {
+    "name": "Psyduck",
+    "health": 50,
+    "defence": 48,
+    "spc_attack": 65,
+    "spc_defence": 50,
+    "speed": 55,
+    "type": "Water",
+    "moves": []
+  },
+  {
+    "name": "Machop",
+    "health": 70,
+    "defence": 50,
+    "spc_attack": 35,
+    "spc_defence": 35,
+    "speed": 35,
+    "type": "Fighting",
+    "moves": []
+  },
+  {
+    "name": "Geodude",
+    "health": 40,
+    "defence": 100,
+    "spc_attack": 30,
+    "spc_defence": 30,
+    "speed": 20,
+    "type": "Rock/Ground",
+    "moves": []
+  },
+  {
+    "name": "Gastly",
+    "health": 30,
+    "defence": 35,
+    "spc_attack": 100,
+    "spc_defence": 35,
+    "speed": 80,
+    "type": "Ghost/Poison",
+    "moves": []
+  },
+  {
+    "name": "Onix",
+    "health": 35,
+    "defence": 160,
+    "spc_attack": 30,
+    "spc_defence": 45,
+    "speed": 70,
+    "type": "Rock/Ground",
+    "moves": []
+  },
+  {
+    "name": "Krabby",
+    "health": 30,
+    "defence": 90,
+    "spc_attack": 25,
+    "spc_defence": 25,
+    "speed": 50,
+    "type": "Water",
+    "moves": []
+  },
+  {
+    "name": "Voltorb",
+    "health": 40,
+    "defence": 50,
+    "spc_attack": 55,
+    "spc_defence": 55,
+    "speed": 100,
+    "type": "Electric",
+    "moves": []
+  },
+  {
+    "name": "Cubone",
+    "health": 50,
+    "defence": 95,
+    "spc_attack": 40,
+    "spc_defence": 50,
+    "speed": 35,
+    "type": "Ground",
+    "moves": []
+  },
+  {
+    "name": "Koffing",
+    "health": 40,
+    "defence": 95,
+    "spc_attack": 60,
+    "spc_defence": 45,
+    "speed": 35,
+    "type": "Poison",
+    "moves": []
+  },
+  {
+    "name": "Rhyhorn",
+    "health": 80,
+    "defence": 95,
+    "spc_attack": 30,
+    "spc_defence": 30,
+    "speed": 25,
+    "type": "Ground/Rock",
+    "moves": []
+  },
+  {
+    "name": "Horsea",
+    "health": 30,
+    "defence": 70,
+    "spc_attack": 70,
+    "spc_defence": 25,
+    "speed": 60,
+    "type": "Water",
+    "moves": []
+  },
+  {
+    "name": "Staryu",
+    "health": 30,
+    "defence": 55,
+    "spc_attack": 70,
+    "spc_defence": 55,
+    "speed": 85,
+    "type": "Water",
+    "moves": []
+  },
+  {
+    "name": "Magikarp",
+    "health": 20,
+    "defence": 55,
+    "spc_attack": 15,
+    "spc_defence": 20,
+    "speed": 80,
+    "type": "Water",
+    "moves": []
+  },
+  {
+    "name": "Eevee",
+    "health": 55,
+    "defence": 50,
+    "spc_attack": 45,
+    "spc_defence": 65,
+    "speed": 55,
+    "type": "Normal",
+    "moves": []
+  }
+]
