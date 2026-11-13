@@ -7,7 +7,8 @@
     "spc_defence": 50,
     "speed": 90,
     "type": "Electric",
-    "moves": []
+    "moves": [],
+    "status": []
   },
   {
     "name": "Bulbasaur",
@@ -17,7 +18,8 @@
     "spc_defence": 65,
     "speed": 45,
     "type": "Grass/Poison",
-    "moves": []
+    "moves": [],
+    "status": []
   },
   {
     "name": "Charmander",
@@ -27,7 +29,8 @@
     "spc_defence": 50,
     "speed": 65,
     "type": "Fire",
-    "moves": []
+    "moves": [],
+    "status": []
   },
   {
     "name": "Squirtle",
@@ -37,7 +40,8 @@
     "spc_defence": 64,
     "speed": 43,
     "type": "Water",
-    "moves": []
+    "moves": [],
+    "status": []
   },
   {
     "name": "Jigglypuff",
@@ -47,7 +51,8 @@
     "spc_defence": 25,
     "speed": 20,
     "type": "Normal/Fairy",
-    "moves": []
+    "moves": [],
+    "status": []
   },
   {
     "name": "Meowth",
@@ -57,7 +62,8 @@
     "spc_defence": 40,
     "speed": 90,
     "type": "Normal",
-    "moves": []
+    "moves": [],
+    "status": []
   },
   {
     "name": "Psyduck",
@@ -67,7 +73,8 @@
     "spc_defence": 50,
     "speed": 55,
     "type": "Water",
-    "moves": []
+    "moves": [],
+    "status": []
   },
   {
     "name": "Machop",
@@ -77,7 +84,8 @@
     "spc_defence": 35,
     "speed": 35,
     "type": "Fighting",
-    "moves": []
+    "moves": [],
+    "status": []
   },
   {
     "name": "Geodude",
@@ -87,7 +95,8 @@
     "spc_defence": 30,
     "speed": 20,
     "type": "Rock/Ground",
-    "moves": []
+    "moves": [],
+    "status": []
   },
   {
     "name": "Gastly",
@@ -97,7 +106,8 @@
     "spc_defence": 35,
     "speed": 80,
     "type": "Ghost/Poison",
-    "moves": []
+    "moves": [],
+    "status": []
   },
   {
     "name": "Onix",
@@ -107,7 +117,8 @@
     "spc_defence": 45,
     "speed": 70,
     "type": "Rock/Ground",
-    "moves": []
+    "moves": [],
+    "status": []
   },
   {
     "name": "Krabby",
@@ -117,7 +128,8 @@
     "spc_defence": 25,
     "speed": 50,
     "type": "Water",
-    "moves": []
+    "moves": [],
+    "status": []
   },
   {
     "name": "Voltorb",
@@ -127,7 +139,8 @@
     "spc_defence": 55,
     "speed": 100,
     "type": "Electric",
-    "moves": []
+    "moves": [],
+    "status": []
   },
   {
     "name": "Cubone",
@@ -137,7 +150,8 @@
     "spc_defence": 50,
     "speed": 35,
     "type": "Ground",
-    "moves": []
+    "moves": [],
+    "status": []
   },
   {
     "name": "Koffing",
@@ -147,7 +161,8 @@
     "spc_defence": 45,
     "speed": 35,
     "type": "Poison",
-    "moves": []
+    "moves": [],
+    "status": []
   },
   {
     "name": "Rhyhorn",
@@ -157,7 +172,8 @@
     "spc_defence": 30,
     "speed": 25,
     "type": "Ground/Rock",
-    "moves": []
+    "moves": [],
+    "status": []
   },
   {
     "name": "Horsea",
@@ -167,7 +183,8 @@
     "spc_defence": 25,
     "speed": 60,
     "type": "Water",
-    "moves": []
+    "moves": [],
+    "status": []
   },
   {
     "name": "Staryu",
@@ -177,7 +194,8 @@
     "spc_defence": 55,
     "speed": 85,
     "type": "Water",
-    "moves": []
+    "moves": [],
+    "status": []
   },
   {
     "name": "Magikarp",
@@ -187,7 +205,8 @@
     "spc_defence": 20,
     "speed": 80,
     "type": "Water",
-    "moves": []
+    "moves": [],
+    "status": []
   },
   {
     "name": "Eevee",
@@ -197,6 +216,7 @@
     "spc_defence": 65,
     "speed": 55,
     "type": "Normal",
-    "moves": []
+    "moves": [],
+    "status": []
   }
 ]
